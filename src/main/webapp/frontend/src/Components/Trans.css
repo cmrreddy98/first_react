@@ -1,0 +1,15 @@
+.Boxout{
+    display:inline;
+    margin-left:8%;
+    margin-right:10%;
+}
+.box{
+    border-radius:25px;
+    background:url(https://jackrugile.com/images/misc/noise-diagonal.png), linear-gradient(#444, #888);
+}
+
+h4,h1{
+ color:grey;
+}
+
+
